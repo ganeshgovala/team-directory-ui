@@ -54,6 +54,7 @@ function App() {
         <h1 className="text-center text-5xl font-semibold tracking-tight text-slate-900">
           Meet Our Team
         </h1>
+        <h1 className="test-center text-md text-gray-300">This text is added for testing purposes</h1>
 
         <div className="mt-6 w-full max-w-md flex space-x-3">
           <input
